@@ -1,7 +1,7 @@
 # Y3-Final-Year-Project
 
 The aim of my project is to obtain the best subsetof genes that distinct the classification of AML and ALL. 
-I will be applying the idea of symbots toconduct a solution search to find the best fitted subset.
+I will be applying the idea of symbots to conduct a solution search to find the best fitted subset.
 
 A symbot as described in this paper are simulations of three-dimensional robots in a 2D
 space, taking the form of artificial life. The symbot has wheels that facilitates movement around
